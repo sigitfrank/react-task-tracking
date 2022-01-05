@@ -211,11 +211,13 @@ form .form-group .form-check {
   }
 
   50% {
-    transform: translateX(-575px);
+    transform: translateX(-75px);
+    text-align: left;
   }
 
   100% {
-    transform: translateX(-525px);
+    transform: translateX(0);
+    text-align: left;
   }
 
 }
